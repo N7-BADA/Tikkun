@@ -57,6 +57,10 @@ Module.symvers
 #
 /debian/
 
+# Tikkun
+**/out
+/tikkun.sh
+
 #
 # tar directory (make tar*-pkg)
 #
